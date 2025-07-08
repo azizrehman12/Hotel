@@ -6,8 +6,8 @@ const Locations: React.FC = () => {
     {
       city: 'Karachi',
       address: 'Near University of Karachi, Gulshan-e-Iqbal',
-      phone: '+92 300 1234567',
-      email: 'karachi@studentnest.pk',
+      phone: '+92 3218760338',
+      email: 'Maria.zaib123@gmail.com',
       coordinates: { lat: 24.8607, lng: 67.0011 },
       features: ['Near Universities', 'Public Transport', 'Shopping Centers', 'Medical Facilities'],
       rooms: 25,
@@ -18,8 +18,8 @@ const Locations: React.FC = () => {
     {
       city: 'Lahore',
       address: 'Near LUMS, DHA Phase 5',
-      phone: '+92 300 2345678',
-      email: 'lahore@studentnest.pk',
+      phone: '+92 3218760338',
+      email: 'Maria.zaib123@gmail.com',
       coordinates: { lat: 31.5204, lng: 74.3587 },
       features: ['Premium Location', 'Metro Access', 'Food Streets', 'Entertainment'],
       rooms: 30,
@@ -30,8 +30,8 @@ const Locations: React.FC = () => {
     {
       city: 'Islamabad',
       address: 'Near NUST, Sector H-12',
-      phone: '+92 300 3456789',
-      email: 'islamabad@studentnest.pk',
+      phone: '+92 3218760338',
+      email: 'Maria.zaib123@gmail.com',
       coordinates: { lat: 33.7077, lng: 72.9786 },
       features: ['Green Environment', 'Safe Area', 'Government Sector', 'Clean Air'],
       rooms: 20,
