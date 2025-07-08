@@ -155,7 +155,7 @@ const Amenities: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+                src="/src/Pictures/study2.jpg"
                 alt="Study Lounge"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
@@ -165,17 +165,17 @@ const Amenities: React.FC = () => {
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
-                alt="Modern Kitchen"
+                src="/src/Pictures/study3.jpg"
+                alt="Modern Exterior"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-                <span className="text-white font-semibold">Modern Kitchen</span>
+                <span className="text-white font-semibold">Modern Exterior</span>
               </div>
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+                src="/src/Pictures/common.jpg"
                 alt="Common Area"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
@@ -185,12 +185,12 @@ const Amenities: React.FC = () => {
             </div>
             <div className="relative group overflow-hidden rounded-lg">
               <img
-                src="https://images.pexels.com/photos/1571471/pexels-photo-1571471.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+                src="/src/Pictures/washrooms.jpg"
                 alt="Laundry Area"
                 className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-                <span className="text-white font-semibold">Laundry Area</span>
+                <span className="text-white font-semibold">Washrooms</span>
               </div>
             </div>
           </div>
@@ -200,7 +200,7 @@ const Amenities: React.FC = () => {
         <div className="bg-blue-600 text-white rounded-xl p-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Experience Premium Student Living</h2>
           <p className="text-xl mb-8 text-blue-100">
-            Join hundreds of satisfied students who enjoy our world-class amenities
+            Join hundreds of satisfied Guests who enjoy our world-class amenities
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -210,7 +210,7 @@ const Amenities: React.FC = () => {
               Schedule a Tour
             </a>
             <a
-              href="https://wa.me/923001234567"
+              href="https://wa.me/923218760338"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105"
             >
               Contact Us

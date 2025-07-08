@@ -6,82 +6,74 @@ const Gallery: React.FC = () => {
 
   const images = [
     {
-      url: 'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/room1.jpg',
       category: 'Rooms',
       title: 'Single Room'
     },
     {
-      url: 'https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/double.jpg',
       category: 'Rooms',
       title: 'Double Room'
     },
     {
-      url: 'https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/KITCHEN.jpg',
       category: 'Kitchen',
       title: 'Modern Kitchen'
     },
     {
-      url: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/STUDY.jpg',
       category: 'Study Area',
       title: 'Study Lounge'
     },
     {
-      url: 'https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/tv.jpg',
       category: 'Common Area',
       title: 'TV Lounge'
     },
     {
-      url: 'https://images.pexels.com/photos/1571471/pexels-photo-1571471.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/lauch.jpg',
       category: 'Facilities',
-      title: 'Laundry Area'
+      title: ' Area'
     },
     {
-      url: 'https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/rooms.jpg',
       category: 'Rooms',
       title: 'Premium Room'
     },
     {
-      url: 'https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/pr.jpg',
       category: 'Rooms',
       title: 'Executive Room'
     },
     {
-      url: 'https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/db.jpg',
       category: 'Rooms',
       title: 'Shared Room'
     },
     {
-      url: 'https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/washrooms.jpg',
       category: 'Exterior',
       title: 'Hostel Building'
     },
     {
-      url: 'https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/interence.jpg',
       category: 'Exterior',
       title: 'Entrance'
     },
+    
     {
-      url: 'https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
-      category: 'Exterior',
-      title: 'Parking Area'
-    },
-    {
-      url: 'https://images.pexels.com/photos/1547036/pexels-photo-1547036.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/interence.jpg',
       category: 'Common Area',
       title: 'Reception Area'
     },
     {
-      url: 'https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/d.jpg',
       category: 'Rooms',
       title: 'Deluxe Room'
     },
+    
     {
-      url: 'https://images.pexels.com/photos/1571449/pexels-photo-1571449.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
-      category: 'Study Area',
-      title: 'Library Corner'
-    },
-    {
-      url: 'https://images.pexels.com/photos/1080720/pexels-photo-1080720.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      url: '/src/Pictures/KITCHEN.jpg',
       category: 'Kitchen',
       title: 'Dining Area'
     }

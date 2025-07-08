@@ -37,9 +37,9 @@ const About: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-16">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">About StudentNest</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">About Backpacker Hostel</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Creating a home away from home for students across Pakistan
+            Creating a home away from home all across Pakistan
           </p>
         </div>
 
@@ -48,24 +48,20 @@ const About: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <img
-                src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400&h=500&fit=crop"
+                src="/src/Pictures/pictures1223.jpg"
                 alt="Owner"
                 className="w-full max-w-md mx-auto rounded-lg shadow-md"
               />
             </div>
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Meet Our Founder</h2>
-              <h3 className="text-xl font-semibold text-blue-600 mb-4">Muhammad Ahmad Khan</h3>
+              <h3 className="text-xl font-semibold text-blue-600 mb-4">Maria Chan Zaib</h3>
               <p className="text-gray-600 mb-4">
-                As a former student who experienced the challenges of finding safe, affordable accommodation, 
-                I founded StudentNest with a simple mission: to provide students with a comfortable, secure, 
-                and supportive living environment where they can focus on their studies and personal growth.
+                Maria Chan Zaib is a distinguished writer and digital influencer known for her impactful voice in social discourse and community development. Through her engaging content and thought leadership, she has cultivated a strong presence on social media, using her platforms to advocate for education, mental health, and gender equality. Her writing, often rooted in real-world experiences and social awareness, continues to inspire and inform a diverse audience.
               </p>
               <p className="text-gray-600 mb-4">
-                With over 5 years of experience in student accommodation, I understand the unique needs of 
-                students and have designed StudentNest to be more than just a place to stay – it's a 
-                community where students can thrive, make lifelong friendships, and create memories that 
-                will last a lifetime.
+                As the founder of Backpackers-Hostel, Maria has successfully built a venture that provides safe, affordable, and quality accommodation for students, professionals, and travelers. Her vision for the hostel goes beyond lodging—it is designed as a supportive and inclusive environment where individuals can thrive while pursuing their academic or professional goals. Her entrepreneurial approach combines functionality with a strong sense of community, making it a model for socially responsible business.
+                In addition to her creative and entrepreneurial pursuits, Maria is a passionate social worker and advocate for women’s rights. She has been actively involved in initiatives that address gender-based inequality, promote education for girls, and create opportunities for women in underserved communities. Her commitment to social justice, coupled with her professional achievements, positions her as a powerful voice for change and an inspiring role model for the next generation.
               </p>
               <p className="text-gray-600">
                 Our commitment to safety, affordability, and community has made StudentNest the preferred 

@@ -32,8 +32,8 @@ const Contact: React.FC = () => {
     {
       icon: Phone,
       title: 'Phone',
-      details: '+92 300 3218760338',
-      action: 'tel:+923001234567'
+      details: '+92 321 8760338',
+      action: 'tel:+923218760338'
     },
     {
       icon: Mail,
@@ -44,8 +44,8 @@ const Contact: React.FC = () => {
     {
       icon: MessageCircle,
       title: 'WhatsApp',
-      details: '+92 300 1234567',
-      action: 'https://wa.me/923001234567'
+      details: '+92 321 8760338',
+      action: 'https://wa.me/923218760338'
     },
     {
       icon: MapPin,
